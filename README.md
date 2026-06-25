@@ -25,5 +25,5 @@ Before running the application, ensure you have the following prerequisites inst
 
 ## RUN the aplication
 
-Bash
+
 python main.py
