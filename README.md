@@ -22,3 +22,8 @@ Before running the application, ensure you have the following prerequisites inst
    ```bash
    git clone [https://github.com/youruser/your-repo.git](https://github.com/youruser/your-repo.git)
    cd your-repo
+
+## RUN the aplication
+
+Bash
+python main.py
